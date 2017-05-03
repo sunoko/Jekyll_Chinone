@@ -545,7 +545,7 @@
 .fa-twitter-square:before {
   content: "\f081";
 }
-.fa-facebook-square:before {
+.fa-github:before {
   content: "\f082";
 }
 .fa-camera-retro:before {
@@ -1217,10 +1217,10 @@
 .fa-bitbucket-square:before {
   content: "\f172";
 }
-.fa-tumblr:before {
+.fa-youtube:before {
   content: "\f173";
 }
-.fa-tumblr-square:before {
+.fa-youtube:before {
   content: "\f174";
 }
 .fa-long-arrow-down:before {
