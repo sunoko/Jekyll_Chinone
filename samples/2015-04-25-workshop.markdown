@@ -3,7 +3,7 @@ title:  "A Craftsman Workshop"
 subtitle: "It's always a bit messy"
 author: "Docker"
 avatar: "img/authors/Docker.png"
-image: "img/f.jpg"
+image: "img/nazo.jpg"
 date:   2015-04-25 12:12:12
 ---
 

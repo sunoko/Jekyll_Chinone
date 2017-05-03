@@ -3,7 +3,7 @@ title:  "I scream"
 subtitle: "But do you scream?"
 author: "Docker"
 avatar: "img/authors/Docker.png"
-image: "img/e.jpg"
+image: "img/ice.jpg"
 date:   2015-04-24 12:12:12
 ---
 
