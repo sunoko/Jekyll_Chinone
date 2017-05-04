@@ -217,6 +217,7 @@
 	.card__caption {
 		font-size: 1.25em;
 		padding: 35px 0px 0px;
+		color: black;
 	}
 	.meta {
 		padding: 0 0 25px 0;
