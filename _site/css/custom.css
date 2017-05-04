@@ -4,10 +4,11 @@ body {
 h1 {
 	color: #4f4c4c;
   font-size: 100px;
-  text-align: center;
 }
 
 a {
   font-size: 70px;
+}
+header {
   text-align: center;
 }
