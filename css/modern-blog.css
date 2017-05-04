@@ -402,8 +402,3 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
-
-.card__title {
-	color: black;
-	background-color: red;
-}
