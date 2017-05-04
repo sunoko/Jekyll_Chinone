@@ -1,0 +1,19 @@
+---
+title:  Are you Rails?
+subtitle: 'you're Rails!'
+author: "Docker"
+avatar: "img/authors/Docker.png"
+image: "img/Rails.png"
+date:   2015-04-20 12:12:12
+---
+
+### Are you Rails?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.
+
+### you're Rails!
+Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.
+```
+$ ruby -v && rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+```
