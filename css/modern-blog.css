@@ -402,3 +402,8 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+h2 {
+	color: black;
+	background-color: red;
+}
