@@ -6,8 +6,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 15:17:01 +0900</pubDate>
-        <lastBuildDate>Thu, 04 May 2017 15:17:01 +0900</lastBuildDate>
+        <pubDate>Thu, 04 May 2017 15:18:32 +0900</pubDate>
+        <lastBuildDate>Thu, 04 May 2017 15:18:32 +0900</lastBuildDate>
         <generator>Jekyll v3.3.0</generator>
         
         <item>
@@ -104,8 +104,8 @@ Rails 5.0.2
 &lt;/div&gt;
 </description>
             <pubDate>Thu, 23 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/23/hadoop.html</link>
-            <guid isPermaLink="true">#/2015/04/23/hadoop.html</guid>
+            <link>#/2015/04/23/Hadoop.html</link>
+            <guid isPermaLink="true">#/2015/04/23/Hadoop.html</guid>
             
             
         </item>
@@ -124,8 +124,8 @@ Rails 5.0.2
 &lt;/div&gt;
 </description>
             <pubDate>Wed, 22 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/22/postgres.html</link>
-            <guid isPermaLink="true">#/2015/04/22/postgres.html</guid>
+            <link>#/2015/04/22/Postgres.html</link>
+            <guid isPermaLink="true">#/2015/04/22/Postgres.html</guid>
             
             
         </item>
@@ -164,8 +164,8 @@ Rails 5.0.2
 &lt;/div&gt;
 </description>
             <pubDate>Mon, 20 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/20/rails.html</link>
-            <guid isPermaLink="true">#/2015/04/20/rails.html</guid>
+            <link>#/2015/04/20/Rails.html</link>
+            <guid isPermaLink="true">#/2015/04/20/Rails.html</guid>
             
             
         </item>
