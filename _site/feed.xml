@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Rails on Docker</title>
+        <title>Who are you?</title>
         <description>Modern-Blog A Elegant template for Jekyll</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 16:13:08 +0900</pubDate>
-        <lastBuildDate>Thu, 04 May 2017 16:13:08 +0900</lastBuildDate>
+        <pubDate>Thu, 04 May 2017 16:22:18 +0900</pubDate>
+        <lastBuildDate>Thu, 04 May 2017 16:22:18 +0900</lastBuildDate>
         <generator>Jekyll v3.3.0</generator>
         
         <item>
