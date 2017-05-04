@@ -2,6 +2,7 @@ body {
   background-image: url("tree.jpg");
 }
 h1 {
+	color: #4f4c4c;
   font-size: 100px;
   text-align: center;
 }
