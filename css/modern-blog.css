@@ -403,7 +403,7 @@ a:focus {
 	transform: scale(1)!important;
 }
 
-h2 {
+.card__title {
 	color: black;
 	background-color: red;
 }
