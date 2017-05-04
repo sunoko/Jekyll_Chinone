@@ -397,7 +397,3 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
-
-body {
-  background-image: url("tree.jpg");
-}
