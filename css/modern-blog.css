@@ -14,7 +14,6 @@
 
 .dropdown-content {
     display: none;
-		color: white;
     position: absolute;
     right: 0;
     min-width: 160px;
@@ -397,4 +396,8 @@ a:focus {
 .ff .polygon {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
+}
+
+body {
+  background-image: url("tree.jpg");
 }
