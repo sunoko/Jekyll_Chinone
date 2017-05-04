@@ -6,8 +6,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 15:24:36 +0900</pubDate>
-        <lastBuildDate>Thu, 04 May 2017 15:24:36 +0900</lastBuildDate>
+        <pubDate>Thu, 04 May 2017 15:26:35 +0900</pubDate>
+        <lastBuildDate>Thu, 04 May 2017 15:26:35 +0900</lastBuildDate>
         <generator>Jekyll v3.3.0</generator>
         
         <item>
@@ -103,7 +103,7 @@ Rails 5.0.2
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-            <pubDate>Thu, 23 Apr 2015 21:12:12 +0900</pubDate>
+            <pubDate>Thu, 23 Apr 2015 12:12:12 +0900</pubDate>
             <link>#/2015/04/23/Hadoop.html</link>
             <guid isPermaLink="true">#/2015/04/23/Hadoop.html</guid>
             
