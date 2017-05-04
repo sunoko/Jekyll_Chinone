@@ -3,7 +3,7 @@ title:  "Absense of light"
 subtitle: "Only lights from space"
 author: "Docker"
 avatar: "img/authors/Docker.png"
-image: "img/star.jpg"
+image: 'img/docker-swarm.png'
 date:   2015-04-23 12:12:12
 ---
 
