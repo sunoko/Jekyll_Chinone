@@ -105,8 +105,6 @@
 }
 
 .card__caption {
-	color: black;
-	background-color: red;
 	font-size: 2em;
 	max-width: 800px;
 	margin: 0 auto;
@@ -114,7 +112,6 @@
 }
 
 .card__container--closed .card__caption {
-	color: black;
 	font-size: 1em;
 	max-width: auto;
 	padding: 10px 10px 25px;
@@ -219,7 +216,6 @@
 	.card__caption {
 		font-size: 1.25em;
 		padding: 35px 0px 0px;
-		color: black;
 	}
 	.meta {
 		padding: 0 0 25px 0;
