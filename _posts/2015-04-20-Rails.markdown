@@ -1,6 +1,6 @@
 ---
 title:  Are you Rails?
-subtitle: 'you're Rails!'
+subtitle: "you're Rails!"
 author: "Docker"
 avatar: "img/authors/Docker.png"
 image: "img/Rails.png"
