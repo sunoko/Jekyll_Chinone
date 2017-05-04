@@ -14,7 +14,6 @@
 
 .dropdown-content {
     display: none;
-		background-color: black;
     position: absolute;
     right: 0;
     min-width: 160px;
@@ -35,6 +34,7 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
+		background-color: black;
 }
 
 .dropdown:hover .dropbtn {
