@@ -6,172 +6,166 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 14:44:02 +0900</pubDate>
-        <lastBuildDate>Thu, 04 May 2017 14:44:02 +0900</lastBuildDate>
+        <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+        <lastBuildDate>Thu, 04 May 2017 14:53:26 +0900</lastBuildDate>
         <generator>Jekyll v3.3.0</generator>
         
         <item>
-            <title>Rails on Docker</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 04 May 2017 12:26:00 +0900</pubDate>
-            <link>#/2017/05/04/rails3.html</link>
-            <guid isPermaLink="true">#/2017/05/04/rails3.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Rails on Docker</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 04 May 2017 12:26:00 +0900</pubDate>
-            <link>#/2017/05/04/rails2.html</link>
-            <guid isPermaLink="true">#/2017/05/04/rails2.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Rails on Docker</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 04 May 2017 12:26:00 +0900</pubDate>
-            <link>#/2017/05/04/rails1.html</link>
-            <guid isPermaLink="true">#/2017/05/04/rails1.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Rails on Docker</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 04 May 2017 12:26:00 +0900</pubDate>
-            <link>#/2017/05/04/rails.html</link>
-            <guid isPermaLink="true">#/2017/05/04/rails.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Absense of light</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 23 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/23/night-sky.html</link>
-            <guid isPermaLink="true">#/2015/04/23/night-sky.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Watches</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Wed, 22 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/22/what-time.html</link>
-            <guid isPermaLink="true">#/2015/04/22/what-time.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Nobody else was around.</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Tue, 21 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/21/city-nights.html</link>
-            <guid isPermaLink="true">#/2015/04/21/city-nights.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Planes are cool!</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
 
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
 &lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up
-docker-compose up -d --build
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-            <pubDate>Mon, 20 Apr 2015 21:12:12 +0900</pubDate>
-            <link>#/2015/04/20/planes.html</link>
-            <guid isPermaLink="true">#/2015/04/20/planes.html</guid>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2017-05-04-Vagrant.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2017-05-04-Vagrant.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2017-05-04-Ubuntu.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2017-05-04-Ubuntu.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2017-05-04-Python.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2017-05-04-Python.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2017-05-04-Nginx.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2017-05-04-Nginx.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ docker -v &amp;amp;&amp;amp; docker-compose -v
+Docker version 17.03.1-ce, build c6d412e
+docker-compose version 1.11.2, build dfed245
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2017-05-04-Docker.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2017-05-04-Docker.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2015-04-23-Hadoop.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2015-04-23-Hadoop.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2015-04-22-Postgres.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2015-04-22-Postgres.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title></title>
+            <description>&lt;h3 id=&quot;are-you-rails&quot;&gt;Are you Rails?&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-rails&quot;&gt;you’re Rails!&lt;/h3&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ruby -v &amp;amp;&amp;amp; rails -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]
+Rails 5.0.2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Thu, 04 May 2017 14:53:26 +0900</pubDate>
+            <link>#/2017/05/04/2015-04-20-Rails.html</link>
+            <guid isPermaLink="true">#/2017/05/04/2015-04-20-Rails.html</guid>
             
             
         </item>
