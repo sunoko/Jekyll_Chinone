@@ -337,6 +337,7 @@ a:focus {
 	width: 95%;
 	max-width: 1366px;
 	margin: 0 auto;
+	color: black;
 }
 
 @media screen and (max-width: 50em) {
