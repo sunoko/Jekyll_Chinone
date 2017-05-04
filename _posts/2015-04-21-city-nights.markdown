@@ -3,7 +3,7 @@ title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
 author: "Docker"
 avatar: "img/authors/Docker.png"
-image: 'img/docker-swarm.png'
+image: 'img/vagrant.png'
 date:   2015-04-21 12:12:12
 ---
 
