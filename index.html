@@ -53,7 +53,7 @@ layout: compress
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
-            {% for post in paginator.posts %}
+            {% for post in site.posts %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
@@ -85,13 +85,7 @@ layout: compress
                 </div>
             </div>
             {% endfor %}
-            <!-- /cards -->
-        </div>
-    </div>
-    <!-- /container -->
-</div>
-
-<h2>Pages</h2>
+            <h2>Pages</h2>
 
 {% for post in paginator.posts %}
   <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
@@ -128,7 +122,11 @@ layout: compress
     {% endif %}
   </div>
 {% endif %}
-
+            <!-- /cards -->
+        </div>
+    </div>
+    <!-- /container -->
+</div>
 <!-- JS -->
 <script src="js/vendors/trianglify.min.js"></script>
 <script src="js/vendors/TweenMax.min.js"></script>
