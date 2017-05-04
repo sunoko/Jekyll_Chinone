@@ -6,8 +6,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 04 May 2017 14:41:59 +0900</pubDate>
-        <lastBuildDate>Thu, 04 May 2017 14:41:59 +0900</lastBuildDate>
+        <pubDate>Thu, 04 May 2017 14:44:02 +0900</pubDate>
+        <lastBuildDate>Thu, 04 May 2017 14:44:02 +0900</lastBuildDate>
         <generator>Jekyll v3.3.0</generator>
         
         <item>
@@ -163,7 +163,11 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar.&lt;/p&gt;
 
 &lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
+&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up
+docker-compose up -d --build
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 </description>
             <pubDate>Mon, 20 Apr 2015 21:12:12 +0900</pubDate>
             <link>#/2015/04/20/planes.html</link>
