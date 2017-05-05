@@ -49,43 +49,48 @@ layout: compress
             </nav>
         </header>
     </div>
-
-<div class="contents page">
-  <div class="container">
-
-    <div class="page__header">
-      <h1 class="page__title">{{ page.title }}</h1>
-      <p class="page__date">{{ page.date | date: '%B %d, %Y' }}</p>
+    <div class="content">
+        <!-- trianglify pattern container -->
+        <div class="pattern pattern--hidden"></div>
+        <!-- cards -->
+        <div class="wrapper">
+            {% for post in site.posts %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                         preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                               xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+            <!-- /cards -->
+        </div>
     </div>
-
-    <div class="page__body">
-
-
-      {{ content }}
-
-
-    </div><!--page__body-->
-
-    <!-- 前後のページへのリンクを表示したい -->
-    <div class="pager">
-
-      {% if page.next %}
-        <p class="pager__item--next">
-          <a href="{{ page.next.url | relative_url }}">&lt; {{ page.next.title }}</a>
-        </p>
-      {% endif %}
-
-      {% if page.previous %}
-        <p class="pager__item--prev">
-          <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} &gt;</a>
-        </p>
-      {% endif %}
-
-    </div><!--pager-->
-    
-  </div><!--container-->
-</div><!--page-->
-
+    <!-- /container -->
+</div>
 <!-- JS -->
 <script src="js/vendors/trianglify.min.js"></script>
 <script src="js/vendors/TweenMax.min.js"></script>
