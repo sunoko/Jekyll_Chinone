@@ -5,5 +5,4 @@ keywords: Modern, Blogging, Fun
 author: Docker
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-paginate: 3
-paginate_path: page:num
+locale: ja_JP
